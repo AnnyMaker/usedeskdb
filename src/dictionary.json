@@ -1,0 +1,18 @@
+{
+  "ru": {
+    "NEW_MESSAGE_SUPPORT": "Новое сообщение от поддержки",
+    "NEW_MESSAGE_CHAT": "Новое сообщение в чате"
+  },
+  "en": {
+    "NEW_MESSAGE_SUPPORT": "New message from support",
+    "NEW_MESSAGE_CHAT": "New chat message"
+  },
+  "es": {
+    "NEW_MESSAGE_SUPPORT": "Nuevo mensaje de soporte",
+    "NEW_MESSAGE_CHAT": "Nuevo mensaje de chat"
+  },
+  "pt": {
+    "NEW_MESSAGE_SUPPORT": "Nova mensagem do suporte",
+    "NEW_MESSAGE_CHAT": "Nova mensagem de bate-papo"
+  }
+}
